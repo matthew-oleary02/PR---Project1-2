@@ -1,2 +1,2 @@
 # PR---Project1-2
-Group projects for Pattern Recognition class
+Group projects #1 and #2 for Pattern Recognition class
